@@ -9,4 +9,6 @@ Clone this repository into your root folder (i.e. run.sh has to be in the same f
 
 I make NO guarantees WHATSOEVER as to the completeness or correctness of these test cases. If you spot a mistake or want to contribute more test cases feel free to open a pull request or contact me directly at 24700746@sun.ac.za
 
+## Changelog
+
 26/02 13:35 Fixed bug with alias, should work for anyone with standard antlr installation and aliases given in book or on the antlr github repo
