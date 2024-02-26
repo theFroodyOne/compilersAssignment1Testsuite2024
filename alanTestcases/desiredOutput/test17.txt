@@ -1,0 +1,1 @@
+(source source test17 (body begin (statements (statement (output put (expr (simple (term (factor 1)) + (term (factor 2)) - (term (factor 3)) + (term (factor 4)) - (term (factor 5)) + (term (factor 6))))))) end))

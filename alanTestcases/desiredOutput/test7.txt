@@ -1,0 +1,5 @@
+[@0,0:6='boolean',<TYPE>,1:0]
+[@1,8:14='integer',<TYPE>,2:0]
+[@2,16:28='boolean array',<TYPE>,3:0]
+[@3,30:42='integer array',<TYPE>,4:0]
+[@4,43:42='<EOF>',<EOF>,4:13]

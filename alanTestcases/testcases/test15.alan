@@ -1,0 +1,4 @@
+source test15
+begin
+    put 69*420
+end

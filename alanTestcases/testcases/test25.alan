@@ -1,0 +1,10 @@
+source test25
+    function printInt(integer i)
+    begin
+        put i
+    end
+begin
+    integer i;
+    i := 69;
+    call printInt(i)
+end

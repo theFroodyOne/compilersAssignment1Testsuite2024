@@ -1,0 +1,1 @@
+(source source test18 (body begin (statements (statement (output put (expr (simple (term (factor 10)) + (term (factor 9))) <> (simple (term (factor 21))))))) end))

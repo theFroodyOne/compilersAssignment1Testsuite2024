@@ -1,0 +1,1 @@
+(source source test25 (funcdef function printInt ( integer i ) (body begin (statements (statement (output put (expr (simple (term (factor i))))))) end)) (body begin (vardef integer i ;) (statements (statement (assign i := (expr (simple (term (factor 69)))))) ; (statement (call call printInt ( (expr (simple (term (factor i)))) )))) end))
