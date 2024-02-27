@@ -1,6 +1,9 @@
 # compilersAssignment1Testsuite2024
 Testsuite for the first assigment of Compilers (CS 745) 2024
 
+## Notice
+After careful consideration(thinking about it for 2 minutes) I realised that the test script will only work if you have the exact same breakdown of lexer/parser rules and use the exact same names for all of them which is a bit of an unreasonable assumption(I am not Willem). You can use these test cases as a base and just inspect the parse tree to see if it seems correct.
+
 ## Running the tests
 
 Clone this repository into your root folder (i.e. run.sh has to be in the same folder as your alan.g4 file), give execute permission with chmod +x ./test.sh, and then run ./test.sh
