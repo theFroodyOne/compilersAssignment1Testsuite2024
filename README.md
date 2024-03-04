@@ -2,7 +2,7 @@
 Testsuite for the first assigment of Compilers (CS 745) 2024
 
 ## Notice
-After careful consideration(thinking about it for 2 minutes) I realised that the test script will only work if you have the exact same breakdown of lexer/parser rules and use the exact same names for all of them which is a bit of an unreasonable assumption(I am not Willem). You can use these test cases as a base and just inspect the parse tree to see if it seems correct.
+This test suite only checks that correct (as far as I know) alan is indeed parsed without errors--it does not check cases with errors or the structure of your parse tree since this will differ from implementation to implementation, you will have to inspect the parse tree yourself to see if it makes sense
 
 ## Running the tests
 
@@ -13,7 +13,3 @@ If a test passes, it will simply print out "test n passed!". If a test fails, th
 ## Disclaimer
 
 I make NO guarantees WHATSOEVER as to the completeness or correctness of these test cases. If you spot a mistake or want to contribute more test cases feel free to open a pull request or contact me directly at 24700746@sun.ac.za
-
-## Changelog
-
-26/02 13:35 Fixed bug with alias, should work for anyone with standard antlr installation and aliases given in book or on the antlr github repo
