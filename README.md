@@ -8,7 +8,7 @@ This test suite only checks that correct (as far as I know) alan is indeed parse
 
 Clone this repository into your root folder (i.e. run.sh has to be in the same folder as your alan.g4 file), give execute permission with chmod +x ./test.sh, and then run ./test.sh
 
-If a test passes, it will simply print out "test n passed!". If a test fails, the script will print out the diff between your output and what was expected (i.e. the unexpected error thrown by your parse), followed by "test n failed!" so you can feel worse about yourself.
+If a test passes, it will simply print out "test n passed!". If a test fails, the script will print out the diff between your output and what was expected (i.e. the unexpected error thrown by your parser), followed by "test n failed!" so you can feel worse about yourself.
 
 ## Disclaimer
 
