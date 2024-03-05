@@ -2,7 +2,8 @@
 Testsuite for the first assigment of Compilers (CS 745) 2024
 
 ## Notice
-Test 0-7 are lexer tests which assumes you have certain tokens defined in certain ways--inpspect these carefully if you get an unexpected results
+Test 0-7 are lexer tests which assumes you have certain tokens defined in certain ways--inpspect these carefully if you get an unexpected results.
+
 The rest of the tests checks that correct (as far as I know) alan is indeed parsed without errors--it does not check cases with errors or the structure of your parse tree since this will differ from implementation to implementation and you will have to inspect the parse tree yourself to see if it makes sense.
 
 ## Running the tests
